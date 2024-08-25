@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">BorcellePizza</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="app_menu">Conoce nuestro menu</string>
+    <string name="app_sede">Visita nuestras sedes</string>
+    <string name="app_reserva">Realiza tu reserva</string>
+    <string name="app_pedido">Realiza tu pedido</string>
+
+    <string name="entrada1">Sopas</string>
+    <string name="entrada2">Panes</string>
+    <string name="entrada3">Empanaditas</string>
+
+    <string name="ing_entrada1">Tomate, Champiñones</string>
+    <string name="ing_entrada2">Porcion, Bandiera</string>
+    <string name="ing_entrada3">Queso, Carne</string>
+
+    <string name="precio_entrada1">$20.000</string>
+    <string name="precio_entrada2">$8.000</string>
+    <string name="precio_entrada3">$10.000</string>
+
+
+    <string name="bebida1">Jugos Naturales</string>
+    <string name="bebida2">Gaseosas</string>
+
+
+    <string name="ing_bebida1">Limonada, Mango, Mora, Mandarina</string>
+    <string name="ing_bebida2">Manzana, Pepsi, Colombiana, Uva</string>
+
+    <string name="precio_bebida1">$4.500</string>
+    <string name="precio_bebida2">$4.000</string>
+
+
+    <string name="platoFuerte1">Pizza jamón y queso</string>
+    <string name="platoFuerte2">Pizza pepperoni</string>
+    <string name="platoFuerte3">Pizza vegetariana</string>
+
+    <string name="ing_platoFuerte1">Jamón y queso en salsa de la casa</string>
+    <string name="ing_platoFuerte2">Pepperoni y Queso</string>
+    <string name="ing_platoFuerte3">Champiñon, Maiz tierno y Piña calada</string>
+
+    <string name="precio_platoFuerte1">$25.000</string>
+    <string name="precio_platoFuerte2">$25.000</string>
+    <string name="precio_platoFuerte3">$20.000</string>
+
+
+    <string name="postre1">Con Helado</string>
+    <string name="postre2">Pasteles y antojos</string>
+
+    <string name="ing_postre1">Sundae, Chocolate, Fresa, Vainilla</string>
+    <string name="ing_postre2">Red Velvet, Tiramisu, Milo</string>
+
+    <string name="precio_postre1">$9.500</string>
+    <string name="precio_postre2">$10.500</string>
+
+
+    <string name="licor1">Cervezas</string>
+    <string name="licor2">Otros</string>
+
+    <string name="ing_licor1">Corona, Pilsen, Aguila </string>
+    <string name="ing_licor2">Sangria, Vino Tinto, Margarita</string>
+
+    <string name="precio_licor1">$7.500</string>
+    <string name="precio_licor2">$104.000, $95.000, $30.000  </string>
+
+
+
+</resources>
